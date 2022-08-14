@@ -4,7 +4,7 @@
 
 ## 文章列表
 
-## 性能优化系列
+### 性能优化系列
 
 1. [谈谈性能优化 - 从用户体验聊起](https://github.com/CavsZhouyou/Blog/blob/main/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/%E8%B0%88%E8%B0%88%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%20-%20%E4%BB%8E%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%81%8A%E8%B5%B7.md)
 
@@ -20,4 +20,6 @@
 
 ## License
 
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可，转载使用请注明出处，谢谢！
+所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可。
+
+转载使用请注明出处，谢谢！
